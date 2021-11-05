@@ -1,7 +1,6 @@
 import torch as th
 import time
 from math import ceil
-import mining_control
 import torch
 
 POWER_CHK_POINT = "saved_models/mobilebert_power_final.pt"
